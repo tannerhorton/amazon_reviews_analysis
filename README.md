@@ -14,7 +14,7 @@ Download the following files to help you get started:
 
 Module 22 Challenge filesLinks to an external site.
 
-## Instructions
+## Methodology
 
 Upload the part_one_starter_code.ipynb into Google Colab and create a duplicate of this file.
 
@@ -57,7 +57,7 @@ If you choose SQL, first use Spark on Colab to extract and transform the data an
 While there are no strict requirements for the analysis, consider steps you can take to reduce noisy data, such as filtering for reviews that meet a certain number of helpful votes, total votes, or both.
 
 
-## Summary
+## Conclusions
 
 Extract (35 points)
 Uses PySpark to connect to and load the AWS datasets into DataFrames. (10 points)
